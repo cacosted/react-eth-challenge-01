@@ -2,9 +2,9 @@
 
 ## React Curriculum vitae
 
-Crear tu curriculum vitae en React, analiza la estructura propuesta e inspirate para mostrar tu información.
+Curriculum vitae template en React para mostrar tu información en formato web.
 
-![react-cv](https://github.com/gndx/react-eth-challenge/blob/440befcbc257b886015bd050666a21a3bec6c244/screenshot.png)
+![react-cv](https://user-images.githubusercontent.com/57645180/178315932-1f8403c0-5787-4972-9b69-c15fef13eef5.png)
 
 ### Retos
 
@@ -15,6 +15,10 @@ Crear tu curriculum vitae en React, analiza la estructura propuesta e inspirate 
 5. [Personalizar API](https://github.com/gndx/react-eth-challenge/issues/5)
 6. [Documentar](https://github.com/gndx/react-eth-challenge/issues/6)
 7. [Deploy](https://github.com/gndx/react-eth-challenge/issues/7)
+
+### Demo
+
+Ver demo: [Live demo](https://cacosted.github.io/react-eth-challenge-01/)
 
 ### Instalación
 
